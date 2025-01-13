@@ -6,11 +6,11 @@ Each week, all trading fees from [$hackathon](https://clank.fun/t/0x3df58a573713
 
 The idea is for that process to be a simple and transparent way to reward the best builders on Farcaster.
 
-To create a flywheel between builders, token traders, and the community.
+To create a positive feedback loop between builders, token traders, and the community.
 
-## 🌟 What is $hackathon?
+## 🌟 What is this?
 
-$hackathon is a community experiment that creates a flywheel between builders and token holders. By participating in $hackathon trading, you're directly funding the next generation of Farcaster builders.
+$hackathon is a community experiment that creates a flywheel between builders and token holders. By participating in $hackathon trading, you're directly funding the next generation of onchain builders.
 
 ### How it works:
 
@@ -77,9 +77,9 @@ $hackathon is a community-built project without any endorsement from the Farcast
 
 ## 🔗 Links
 
-- [Website](https://weeklyhackathon.xyz)
+- [Website](https://weeklyhackathon.com)
 - [Warpcast Channel](https://warpcast.com/~/channel/weeklyhackathon)
-- [Current Week's Challenge](https://warpcast.com/jpfraneto.eth/0xb4974685)
+- [Current Week's Challenge](https://weeklyhackathon.com/week-1)
 
 ## 📬 Contact
 
