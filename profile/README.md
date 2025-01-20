@@ -1,12 +1,12 @@
 ![Weekly Hackathon Banner](https://github.com/jpfraneto/images/blob/main/banner-hackathon.png?raw=true)
 
-The first self-sustaining weekly hackathon on Farcaster.
+The first self-sustaining weekly hackathon on the internet.
 
-Each week, all trading fees from [$hackathon](https://clank.fun/t/0x3df58a5737130fdc180d360ddd3efba34e5801cb) are awarded to one hacker, after some sort of processing that will always be open source.
+Each week, all trading fees from [$hackathon](https://clank.fun/t/0x3df58a5737130fdc180d360ddd3efba34e5801cb) are awarded to one hacker, after some sort of processing that we need to agree on.
 
-The idea is for that process to be a simple and transparent way to reward the best builders on Farcaster.
+The idea is for that process to be a simple and transparent way to reward the best builders.
 
-To create a positive feedback loop between builders, token traders, and the community.
+To create a positive feedback loop between them, token traders, and the community.
 
 ## 🌟 What is this?
 
@@ -26,14 +26,15 @@ $hackathon is a community experiment that creates a flywheel between builders an
 ├── /app            # farcaster frame code
 ├── /weeks          # individual hackathon challenges
 │   ├── /week-1     # frames v2 Documentation Challenge
-│   ├── /week-2     # Coming soon...
+│   ├── /week-2     # judge ai agent
+│   ├── /week-3     # Coming soon...
 │   └── ...
 └── /docs           # documentation & guides
 ```
 
 ## 🚀 Getting Started
 
-1. Look for [this weeks repo](https://github.com/weeklyhackathon/week-1)
+1. Look for [this weeks repo](https://github.com/weeklyhackathon/week-2)
 2. Fork it
 3. Read the README.md
 4. Build something amazing
@@ -43,13 +44,16 @@ $hackathon is a community experiment that creates a flywheel between builders an
 
 - **Mission**: Build the ultimate starter experience for Frames v2
 - **Prize Pool**: ~7k USD + 12 months of services from Neynar, Buoy, and Orbiter
-- [View Details](https://weeklyhackathon.com/week-1)
+- [View Details](https://weeklyhackathon.com/week-2)
 
 ## 📅 Past Challenges
 
+- [Week One](https://weeklyhackathon.com/week-1)
+
 ## 🏆 Hall of Fame
 
-Coming soon... Will you be the first winner?
+week 1
+@jvaleska.eth
 
 ## 💰 Token Details
 
